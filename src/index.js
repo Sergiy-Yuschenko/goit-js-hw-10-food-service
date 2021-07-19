@@ -9,7 +9,7 @@ import menuCards from './templates/menu-cards.hbs'
 import menus from './menu.json';
 //Знаходимо елемент списку, в який треба додати розмітку карточок меню
 
-
+//Введення констант
 const Theme = {
   LIGHT: 'light-theme',
   DARK: 'dark-theme',
